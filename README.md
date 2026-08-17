@@ -2,7 +2,7 @@
 
 ## 🚀 Data Analyst
 
-📍 **Singapore**
+📍 **Poland**
 📧 **Email:** [garshina75@gmail.com](mailto:garshina75@gmail.com)
 🔗 **LinkedIn:** [liudmyla-harshyna](www.linkedin.com/in/liudmyla-harshyna)
 
