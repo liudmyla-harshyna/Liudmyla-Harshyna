@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm Ludmyla!
 
-<!--
-**liudmyla-harshyna/Liudmyla-Harshyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Analyst
 
-Here are some ideas to get you started:
+📍 **Singapore**
+📧 **Email:** [garshina75@gmail.com](mailto:garshina75@gmail.com)
+🔗 **LinkedIn:** [liudmyla-harshyna](www.linkedin.com/in/liudmyla-harshyna)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me 🌐
+
+Я аналітик даних із досвідом роботи на перетині технологій та освіти. Маю ступінь магістра з прикладної математики та понад 20 років досвіду викладання математики, інформаційних технологій і основ програмування.
+
+Спеціалізуюся на аналізі даних із використанням Python, SQL, Power BI, Tableau та Excel. Поєдную технічну експертизу з аналітичним мисленням, умінням системно пояснювати й візуалізувати складні концепції та ефективно передавати знання.
+
+Є запрошеним освітнім консультантом експертної групи проєкту «Оновлена інформатика — ІТ-студії», ініційованого Міністерством цифрової трансформації України та Міністерством освіти і науки України в межах програми EU4DigitalUA.
+
+### Teaching 🎓
+
+● Data Analytics Basic with AI – успішно завершила курс з основ аналітики даних, під час якого опанувала
+SQL, Microsoft Excel, Tableau, Power BI, основи візуалізації даних, статистичного аналізу, роботи з
+реляційними базами даних та використання AI-інструментів в аналітиці.
+● Data Analytics Pro with AI – успішно завершила поглиблений курс з аналітики даних, що охоплював
+просунуте використання Python і SQL, реляційні та NoSQL бази даних, статистику, A/B-тестування, Power
+BI, Tableau, а також використання AI-інструментів для аналізу даних та автоматизації аналітичних процесів.
+Фінальний проєкт: Автоматизована система моніторингу та візуалізації показників реалізації електротоварів
+на базі API маркетплейсу
+
+**Комп'ютерна школа Hillel IT School 2025 – 2026**:
+
+- [Data Analytics Basic with AI](https://certificate.ithillel.ua/view/50457373)
+- [ Data Analytics Pro with AI](https://certificate.ithillel.ua/view/57085428)
+
+### Education 🎓
+
+- **Прикладна математика**, Запорізький Національний Університет 1995 – 2000, магістр
+---
+
+🔗 Проєкт "Автоматизована система моніторингу та візуалізації показників реалізації електротоварів на базі API маркетплейсу" (https://github.com/liudmyla-harshyna/olist-marketplace-data-analysis) — в рамках проєкту створила end-to-end аналітичне рішення для моніторингу продажів маркетплейсу: від очищення даних у Python та моделювання БД у PostgreSQL до побудови інтерактивного Power BI дашборду. Провела аналіз продажів, логістики та клієнтської поведінки за допомогою SQL, DAX і RFM-сегментації.
